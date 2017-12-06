@@ -1,0 +1,19 @@
+{
+  "name": "tweet-updater",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tweetUpdater.js",
+  "scripts": {
+    "start": "node tweetUpdater.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "moment": "^2.19.3",
+    "mongoose": "^4.13.5",
+    "twit": "^2.2.9"
+  }
+}
